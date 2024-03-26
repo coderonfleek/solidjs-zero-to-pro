@@ -1,0 +1,20 @@
+.blueBg{
+    background-color: blue;
+}
+
+.whiteColor {
+    color: white
+}
+
+.italicsStyle{
+    font-style: italic;
+}
+
+.strike{
+    text-decoration: line-through;
+}
+
+.active-link{
+    color: red;
+    text-decoration: underline;
+}
